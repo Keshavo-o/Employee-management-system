@@ -26,7 +26,7 @@ Employee,complaints and leave data is managed using MySQL.
 PHP 7.0 or higher
 MySQL 5.7 or higher
 Apache or any other web server
-Don't forget to mport the database:
+Don't forget to import the database:
 
 ### Importing Database
 Create two differnet databases in MySQL as complaints and employee_management_system.
@@ -41,7 +41,7 @@ Start the server:
 If using XAMPP or WAMP, move the project folder to the htdocs directory.
 Start Apache and MySQL servers.
 Access the system via http://localhost/employee-management-system in your web browser.
-Usage
+## Usage
 ### Admin Login: 
 Use the admin credentials to access the admin panel.
 Username : Keshav 
