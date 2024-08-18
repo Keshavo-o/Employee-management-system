@@ -29,9 +29,7 @@ Apache or any other web server
 Don't forget to import the database:
 
 ### Importing Database
-Create two differnet databases in MySQL as complaints and employee_management_system.
-Import the provided SQL file (database.sql) into your MySQL database.
-Configure the database connection:
+Just copy both the database files to Xampp->mysql->data->
 
 Open the config.php file.
 Update the database credentials (DB_HOST, DB_USER, DB_PASS, DB_NAME) to match your setup.
